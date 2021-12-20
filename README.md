@@ -1,2 +1,0 @@
-# hsbcrepo
-Dev-ops-training.
